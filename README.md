@@ -68,8 +68,11 @@ I'm a **Computer Science Engineering student** at **Vellore Institute of Technol
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilverSouls226&show_icons=true&theme=tokyonight&count_private=true" alt="Skandan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilverSouls226&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SilverSouls226&theme=tokyonight" alt="Skandan's GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SilverSouls226&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilverSouls226&theme=tokyonight" alt="GitHub Streak" width="96%" />
 </p>
 
 ---
